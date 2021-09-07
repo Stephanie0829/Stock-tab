@@ -1,3 +1,28 @@
+# StockTab Chrome Extension
+Chrome extension that customizes new tabs to display daily stock information using the polygon.io REST API, chart.js (2 for react).
+The following is displayed
+- Local time/date
+- Google search bar 
+- Market status
+- Time series graphs for 3 major market indexes (NASDAQ, DOWJONES, SP&500)
+- News on stocks/finance
+
+### Preview:
+**Default view:**\
+Market status, date and current time (updating live), and a google search bar.
+<img width="700" alt="Screen Shot 2021-08-31 at 2 38 00 PM" src="https://user-images.githubusercontent.com/72533858/131557822-a41507c7-bf1e-4ff9-82a3-149e504179e8.png">
+
+
+### Installation instructions:
+Due to API restrictions the extension is not published in the chrome store.
+To use this extension, 
+1. Download the zip file or repository
+2. Use IDE of choosing (that can run react/html/css) to open the folder
+3. Build the react app using the "Getting Started with Create React App" instructions below
+4. Open chrome extension manager and click "load unpacked"
+5. Load the build folder
+6. Refresh to display your chrome extension
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
