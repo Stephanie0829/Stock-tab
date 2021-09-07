@@ -1,16 +1,21 @@
 # StockTab Chrome Extension
-Chrome extension that customizes new tabs to display daily stock information using the polygon.io REST API, chart.js (2 for react).
+Chrome extension that customizes new tabs to display daily stock information created using react, polygon.io REST API, Bing News Search API, chart.js (2 for react). Customization aims to improve awareness for stock-holders, traders, or trading hobbyists, through providing graphics on updates on the current market and news.
 The following is displayed
 - Local time/date
 - Google search bar 
-- Market status
-- Time series graphs for 3 major market indexes (NASDAQ, DOWJONES, SP&500)
-- News on stocks/finance
+- Market status (from Polygon.io)
+- Time series graphs for 3 major market indexes (NASDAQ, DOWJONES, SP&500) (from Polygon.io)
+- News on stocks/finance (from Bing API)
 
 ### Preview:
+**Demo:**
+
 **Default view:**\
 Market status, date and current time (updating live), and a google search bar.
 <img width="700" alt="Screen Shot 2021-08-31 at 2 38 00 PM" src="https://user-images.githubusercontent.com/72533858/131557822-a41507c7-bf1e-4ff9-82a3-149e504179e8.png">
+
+**Scrolled view:**\
+Time series graphs from the most recent month for three market indexes, and news from the current day with the keyword "Stocks" obtained from bing news search. Information on title, publication date, image, and description of the article is displayed in a thumbnail. A total of 10 articles are displayed.
 
 
 ### Installation instructions:
