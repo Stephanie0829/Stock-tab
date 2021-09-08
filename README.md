@@ -8,13 +8,14 @@ The following is displayed
 - News on stocks/finance (from Bing API)
 
 ### Preview:
-**Demo:**
+#### Demo:
+https://user-images.githubusercontent.com/72533858/132594419-7be87aa0-d44a-4e21-a163-07c86901aa84.mov
 
-**Default view:**\
+#### Default view:
 Market status, date and current time (updating live), and a google search bar.
 <img width="700" alt="Screen Shot 2021-08-31 at 2 38 00 PM" src="https://user-images.githubusercontent.com/72533858/131557822-a41507c7-bf1e-4ff9-82a3-149e504179e8.png">
 
-**Scrolled view:**\
+#### Scrolled view:
 Time series graphs from the most recent month for three market indexes, and news from the current day with the keyword "Stocks" obtained from bing news search. Information on title, publication date, image, and description of the article is displayed in a thumbnail. A total of 10 articles are displayed.
 
 
