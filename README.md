@@ -17,6 +17,8 @@ Market status, date and current time (updating live), and a google search bar.
 
 #### Scrolled view:
 Time series graphs from the most recent month for three market indexes, and news from the current day with the keyword "Stocks" obtained from bing news search. Information on title, publication date, image, and description of the article is displayed in a thumbnail. A total of 10 articles are displayed.
+<img width="1392" alt="Screen Shot 2021-09-08 at 6 36 04 PM" src="https://user-images.githubusercontent.com/72533858/132594801-e6120b84-7fb4-47da-85f6-a1839aaaf37c.png">
+<img width="1386" alt="Screen Shot 2021-09-08 at 6 36 23 PM" src="https://user-images.githubusercontent.com/72533858/132594806-f4640585-d7ce-4cae-9227-02a39babe43c.png">
 
 
 ### Installation instructions:
